@@ -1,4 +1,4 @@
-Namaste/Hello 🙏🏻 My name is Vijay Jadhav
+Namaste/Hello 🙏🏻, My name is Vijay Jadhav
 =============================
 
 a Web Developer
