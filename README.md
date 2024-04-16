@@ -6,10 +6,10 @@ a Web Developer
 
 "Passionate about coding and web development, I thrive on exploring new technologies and AI tools. With a strong foundation in frontend technologies like HTML, CSS, JavaScript, and React.js, coupled with backend expertise in Python, Django, SQL, and PostgreSQL, I'm constantly pushing boundaries and embracing the ever-evolving landscape of programming. For me, coding isn't just a career path – it's a lifelong pursuit fueled by curiosity, innovation, and a love for problem-solving."
 
-* 🌏  I'm based in India
+* 🌏  I'm from Maharashtra, India.
 * 📧  You can contact me at [vijay05111997@gmail.com](mailto:vijay05111997@gmail.com)
 * 👨🏻‍💻  I'm currently working on [CS50's Introduction to Programming with Python](http://github.com/vijay-jadhav1997/CS50-s_introduction_to_programming_with_Python)
-* 🧠  I'm learning advance concepts of Python, Django, and PostgreSQL nowadays.
+* 🧠  Now days, I'm learning advance concepts of Python, Django, and PostgreSQL.
 * 🤝  I'm open to collaborating on other open-source Django projects!
 
 ### Skills
