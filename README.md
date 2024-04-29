@@ -1,7 +1,7 @@
 Namaste/Hello 🙏🏻, My name is Vijay Jadhav
 =============================
 
-a Web Developer
+a Full Stack Web Developer
 ---------------
 
 "Passionate about coding and web development, I thrive on exploring new technologies and AI tools. With a strong foundation in frontend technologies like HTML, CSS, JavaScript, and React.js, coupled with backend expertise in Python, Django, SQL, and PostgreSQL, I'm constantly pushing boundaries and embracing the ever-evolving landscape of programming. For me, coding isn't just a career path – it's a lifelong pursuit fueled by curiosity, innovation, and a love for problem-solving."
