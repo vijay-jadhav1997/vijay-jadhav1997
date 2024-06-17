@@ -7,9 +7,9 @@ a Full Stack Web Developer
 "Passionate about coding and web development, I thrive on exploring new technologies and AI tools. With a strong foundation in frontend technologies like HTML, CSS, JavaScript, and React.js, coupled with backend expertise in Python, Django, SQL, and PostgreSQL, I'm constantly pushing boundaries and embracing the ever-evolving landscape of programming. For me, coding isn't just a career path – it's a lifelong pursuit fueled by curiosity, innovation, and a love for problem-solving."
 
 * 🌏  I'm from Maharashtra, India.
-* 👨🏻‍💻  I'm currently working on [CS50's Introduction to Programming with Python](http://github.com/vijay-jadhav1997/CS50-s_introduction_to_programming_with_Python)
+* 👨🏻‍💻  I'm currently working on [django_projects/TODO_LIST](https://github.com/vijay-jadhav1997/django_projects/tree/main/TODO_LIST)
 * 🧠  Now days, I'm learning advance concepts of Python, Django, Django Rest Framework, SQL and PostgreSQL.
-* 🤝  I'm open to collaborating to any open-source Django projects!
+* 🤝  I'm open to collaborating to any open-source Django project!
 
 <hr>
 
