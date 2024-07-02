@@ -9,7 +9,7 @@ a Full Stack Web Developer
 * 🌏  I'm from Maharashtra, India.
 * 👨🏻‍💻  I'm currently working on [django_projects/TODO_LIST](https://github.com/vijay-jadhav1997/django_projects/tree/main/TODO_LIST)
 * 🧠  Now days, I'm learning advance concepts of Python, Django, Django Rest Framework, SQL and PostgreSQL.
-* 🤝  I'm open to collaborat to any open-source Django project!
+* 🤝  I'm open to collaborate to any open-source Django project!
 
 <hr>
 
