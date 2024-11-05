@@ -28,7 +28,7 @@ a Full Stack Web Developer
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,js)
+![Languages](https://skillicons.dev/icons?i=python,js,ts)
 
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap&perline=3)
