@@ -34,10 +34,10 @@ a Full Stack Web Developer
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap&perline=3)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=django,drf)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,)
+![Database & Tools](https://skillicons.dev/icons?i=postgres,redis)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,md,vscode,vite,npm)
