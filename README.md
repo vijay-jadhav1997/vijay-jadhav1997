@@ -7,7 +7,7 @@ a Full Stack Web Developer
 "Passionate about coding and web development, I thrive on exploring new technologies and AI tools. With a strong foundation in frontend technologies like HTML, CSS, JavaScript, TypeScript and React.js, coupled with backend expertise in Python, Django, Django Rest Framework, PostgreSQL, and building Restful APIs. I'm constantly pushing boundaries and embracing the ever-evolving landscape of programming. For me, coding isn't just a career path – it's a lifelong pursuit fueled by curiosity, innovation, and a love for problem-solving."
 
 * 🌏  I'm from Maharashtra, India.
-* 👨🏻‍💻  I'm currently working on [django_projects/TODO_LIST](https://github.com/vijay-jadhav1997/django_projects/tree/main/TODO_LIST)
+* 👨🏻‍💻  I'm currently working on [E-commerce App : Indic Products](https://github.com/vijay-jadhav1997/E-Commerce)
 * 🧠  Now days, I'm learning advance concepts of Python, Django, Django Rest Framework, SQL and PostgreSQL.
 * 🤝  I'm open to collaborate to any open-source Django project!
   
