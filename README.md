@@ -7,7 +7,7 @@ a Full Stack Web Developer
 "Passionate about coding and web development, I thrive on exploring new technologies and AI tools. With a strong foundation in frontend technologies like HTML, CSS, JavaScript, TypeScript and React.js, coupled with backend expertise in Python, Django, Django Rest Framework, PostgreSQL, and building Restful APIs. I'm constantly pushing boundaries and embracing the ever-evolving landscape of programming. For me, coding isn't just a career path – it's a lifelong pursuit fueled by curiosity, innovation, and a love for problem-solving."
 
 * 🌏  I'm from Maharashtra, India.
-* 👨🏻‍💻  I'm currently working on [E-commerce App : Indic Products](https://github.com/vijay-jadhav1997/E-Commerce)
+* 👨🏻‍💻  I'm currently working on [Smart Chat Bot App](https://github.com/vijay-jadhav1997/smart_chat)
 * 🧠  Now days, I'm learning advance concepts of Python, Django, Django Rest Framework, SQL and PostgreSQL.
 * 🤝  I'm open to collaborate to any open-source Django project!
   
@@ -37,10 +37,10 @@ a Full Stack Web Developer
 [![Backend Technologies](https://skillicons.dev/icons?i=django,drf)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,redis)
+![Database & Tools](https://skillicons.dev/icons?i=postgres,redis,firebase)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,md,vscode,vite,npm)
+![Others](https://skillicons.dev/icons?i=git,github,md,vscode,vite,npm,pypi)
 
 
 
@@ -67,11 +67,17 @@ a Full Stack Web Developer
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/vijay-jadhav1997/Weather-App-Final-Project-For-CS50P" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=Weather-App-Final-Project-For-CS50P&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vijay-jadhav1997/CS50-s_introduction_to_programming_with_Python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=CS50-s_introduction_to_programming_with_Python&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/vijay-jadhav1997/smart_chat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=smart_chat&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  
+<a href="https://github.com/vijay-jadhav1997/black_white_lab" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=black_white_lab&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br />
 
-<br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/vijay-jadhav1997/ims-api" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=ims-api&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
-<div width="100%" align="center"><a href="https://github.com/vijay-jadhav1997/react.js-simple-projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=react.js-simple-projects&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/vijay-jadhav1997/simple-js-projects" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=simple-js-projects&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/vijay-jadhav1997/E-Commerce" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=E-Commerce&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div> <br /> <br /> <br />
+
+<div width="100%" align="center"><a href="https://github.com/vijay-jadhav1997/react-projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=react-projects&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a>
+
+<a href="https://github.com/vijay-jadhav1997/indic-quiz-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=simple-js-projects&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <!---
 vijay-jadhav1997/vijay-jadhav1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
