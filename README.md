@@ -4,11 +4,11 @@ Namaste/Hello 🙏🏻, I'm Vijay Jadhav
 a Full Stack Web Developer
 ---------------
 
-"Passionate about coding and web development, I thrive on exploring new technologies and AI tools. With a strong foundation in frontend technologies like HTML, CSS, JavaScript, TypeScript and React.js, coupled with backend expertise in Python, Django, Django Rest Framework, PostgreSQL, and building Restful APIs. I'm constantly pushing boundaries and embracing the ever-evolving landscape of programming. For me, coding isn't just a career path – it's a lifelong pursuit fueled by curiosity, innovation, and a love for problem-solving."
+"Passionate about coding and web development, I thrive on exploring new technologies and AI tools. With a strong foundation in frontend technologies like HTML, CSS, JavaScript, TypeScript and React.js, coupled with backend expertise in Node.js, Express.js, MongoDB, PostgreSQL, and building Restful APIs. I'm constantly pushing boundaries and embracing the ever-evolving landscape of programming. For me, coding isn't just a career path – it's a lifelong pursuit fueled by curiosity, innovation, and a love for problem-solving."
 
 * 🌏  I'm from Maharashtra, India.
 * 👨🏻‍💻  I'm currently working on [Smart Chat Bot App](https://github.com/vijay-jadhav1997/smart_chat)
-* 🧠  Now days, I'm learning advance concepts of Python, Django, Django Rest Framework, SQL and PostgreSQL.
+* 🧠  Now days, I'm learning advance concepts of Node.js, React, Express.js, SQL and NoSQL databases.
 * 🤝  I'm open to collaborate to any open-source Django project!
   
 <hr>
