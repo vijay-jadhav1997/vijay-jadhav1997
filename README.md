@@ -28,19 +28,19 @@ a Full Stack Web Developer
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=python,js,ts)
+![Languages](https://skillicons.dev/icons?i=js,ts,py)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,redux,html,css,tailwind,bootstrap&perline=3)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,jest,redux,html,css,tailwind,bootstrap&perline=4)
 
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=django,drf)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,django,)](https://skillicons.dev)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,redis,firebase)
+![Database & Tools](https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,md,vscode,vite,npm,pypi)
+![Others](https://skillicons.dev/icons?i=git,github,githubactions,postman,prisma,vite,npm,babel,codepen,md,vscode,wordpress,powershellbash&perline=4)
 
 
 
