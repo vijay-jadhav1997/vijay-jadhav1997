@@ -8,8 +8,8 @@ a Full Stack Web Developer
 
 * 🌏  I'm from Maharashtra, India.
 * 👨🏻‍💻  I'm currently working on [Smart Chat Bot App](https://github.com/vijay-jadhav1997/smart_chat)
-* 🧠  Now days, I'm learning advance concepts of Node.js, React, Express.js, SQL and NoSQL databases.
-* 🤝  I'm open to collaborate to any open-source Django project!
+* 🧠  Now days, I'm learning advance concepts of Node.js, React, Express.js, and NoSQL databases.
+* 🤝  I'm open to collaborate to any MERN stack project as a freelancer!
   
 <hr>
 
