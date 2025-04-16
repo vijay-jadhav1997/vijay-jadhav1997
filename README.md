@@ -40,7 +40,7 @@ a Full Stack Web Developer
 ![Database & Tools](https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,githubactions,postman,prisma,vite,npm,babel,codepen,md,vscode,wordpress,powershellbash&perline=4)
+![Others](https://skillicons.dev/icons?i=git,github,githubactions,postman,prisma,vite,npm,babel,codepen,md,vscode,powershellbash&perline=4)
 
 
 
