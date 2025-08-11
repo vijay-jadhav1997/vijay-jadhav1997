@@ -1,15 +1,27 @@
 Namaste/Hello 🙏🏻, I'm Vijay Jadhav
 =============================
 
-a Full Stack Web Developer
----------------
+a Full Stack Developer | MERN & Beyond
+---------------------------------------------
+With 3.5+ years of hands-on experience, I specialize in building scalable, high-performance web applications and distributed systems. My expertise spans across the MERN stack (MongoDB, Express.js, React.js, Node.js) and a rich ecosystem of tools and technologies:
 
-"Passionate about coding and web development, I thrive on exploring new technologies and AI tools. With a strong foundation in frontend technologies like HTML, CSS, JavaScript, TypeScript and React.js, coupled with backend expertise in Node.js, Express.js, MongoDB, PostgreSQL, and building Restful APIs. I'm constantly pushing boundaries and embracing the ever-evolving landscape of programming. For me, coding isn't just a career path – it's a lifelong pursuit fueled by curiosity, innovation, and a love for problem-solving."
+- Backend: Node.js, Express.js, Redis, Kafka, RabbitMQ, Microservices
+
+- Frontend: React.js, Next.js, TailwindCSS
+
+- Infrastructure & DevOps: AWS, Docker, Kubernetes
+
+- Workflow & Tools: Git, Postman, Jira, JWT-based authentication
+
+I thrive on solving complex challenges, optimizing performance, and delivering intuitive, dynamic user experiences.
+- Always learning, always building.
+
+"Clean code, robust architecture, and continuous improvement — that’s my mantra."
 
 * 🌏  I'm from Maharashtra, India.
-* 👨🏻‍💻  I'm currently working on [Smart Chat Bot App](https://github.com/vijay-jadhav1997/smart_chat)
-* 🧠  Now days, I'm learning advance concepts of Node.js, React, Express.js, and NoSQL databases.
-* 🤝  I'm open to collaborate to any MERN stack project as a freelancer!
+* 👨🏻‍💻  I'm currently working on [ecommerce-website](https://github.com/vijay-jadhav1997/smart_chat)
+* 🧠  Now days, I'm learning advance concepts of Node.js, Next.js, Express.js, Micro-services, AWS and NoSQL databases.
+* 🤝  I'm open to collaborate to any MERN stack project!
   
 <hr>
 
@@ -30,17 +42,20 @@ a Full Stack Web Developer
 #### Programming Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,py)
 
-#### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,jest,redux,html,css,tailwind,bootstrap&perline=4)
-
 #### Backend Technologies
-[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,django,)](https://skillicons.dev)
+[![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,kafka,rabbitmq)](https://skillicons.dev)
+
+#### Frontend Technologies
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,redux,html,css,tailwind,bootstrap&perline=4)
+
+#### Infrastructure & DevOps: AWS, Docker, Kubernetes
+![Database & Tools](https://skillicons.dev/icons?i=aws,docker,kubernet)
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase)
+![Database & Tools](https://skillicons.dev/icons?i=mongodb,redis,firebase)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,githubactions,postman,prisma,vite,npm,babel,codepen,md,vscode,powershellbash&perline=4)
+![Others](https://skillicons.dev/icons?i=git,github,githubactions,postman,prisma,vite,npm,babel,md,vscode,powershellbash&perline=4)
 
 
 
@@ -65,6 +80,7 @@ a Full Stack Web Developer
 
 <a href="https://github.com/vijay-jadhav1997" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijay-jadhav1997&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<!---
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/vijay-jadhav1997/smart_chat" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=smart_chat&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a>
@@ -78,7 +94,7 @@ a Full Stack Web Developer
 <div width="100%" align="center"><a href="https://github.com/vijay-jadhav1997/react-projects" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=react-projects&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a>
 
 <a href="https://github.com/vijay-jadhav1997/indic-quiz-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=vijay-jadhav1997&repo=simple-js-projects&title_color=0891b2&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
+--->
 <!---
 vijay-jadhav1997/vijay-jadhav1997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
