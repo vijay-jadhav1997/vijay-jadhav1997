@@ -55,7 +55,7 @@ I thrive on solving complex challenges, optimizing performance, and delivering i
 ![Database & Tools](https://skillicons.dev/icons?i=mongodb,redis,firebase)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,githubactions,postman,prisma,vite,npm,babel,md,vscode,powershellbash&perline=4)
+![Others](https://skillicons.dev/icons?i=git,github,githubactions,postman,prisma,vite,npm,babel,md,vscode,powershell,&perline=4)
 
 
 
