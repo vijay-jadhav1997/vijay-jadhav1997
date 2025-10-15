@@ -45,11 +45,12 @@ I thrive on solving complex challenges, optimizing performance, and delivering i
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,kafka,rabbitmq)](https://skillicons.dev)
 
+#### Infrastructure & DevOps: AWS, Docker, Kubernetes
+![Database & Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes)
+
 #### Frontend Technologies
 ![Frontend Technologies](https://skillicons.dev/icons?i=react,next,redux,html,css,tailwind,bootstrap&perline=4)
 
-#### Infrastructure & DevOps: AWS, Docker, Kubernetes
-![Database & Tools](https://skillicons.dev/icons?i=aws,docker,kubernet)
 
 #### Database & Tools
 ![Database & Tools](https://skillicons.dev/icons?i=mongodb,redis,firebase)
