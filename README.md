@@ -1,17 +1,21 @@
 Namaste/Hello 🙏🏻, I'm Vijay Jadhav
 =============================
 
-a Full Stack Developer | MERN & Beyond
+a Full Stack Developer/Engineer
 ---------------------------------------------
-With 3.5+ years of hands-on experience, I specialize in building scalable, high-performance web applications and distributed systems. My expertise spans across the MERN stack (MongoDB, Express.js, React.js, Node.js) and a rich ecosystem of tools and technologies:
+With 4+ years of hands-on experience, I specialize in building scalable, high-performance web applications, distributed systems and cloud based systems. My expertise spans across the MERN stack (MongoDB, Express.js, React.js, Node.js) and a rich ecosystem of tools and technologies:
 
+- Languages: TypeScript, JavaScript, SQL, Python
+  
 - Backend: Node.js, Express.js, Redis, Kafka, RabbitMQ, Microservices
 
 - Frontend: React.js, Next.js, TailwindCSS
 
-- Infrastructure & DevOps: AWS, Docker, Kubernetes
+- Database: Postgres, MongoDB, Redis
+  
+- Infrastructure & DevOps: AWS, Docker, Kubernetes, CI/CD
 
-- Workflow & Tools: Git, Postman, Jira, JWT-based authentication
+- Workflow & Tools: Git, Postman, Jira, Claude, Antigravity, cursor, Watchdog
 
 I thrive on solving complex challenges, optimizing performance, and delivering intuitive, dynamic user experiences.
 - Always learning, always building.
@@ -21,7 +25,7 @@ I thrive on solving complex challenges, optimizing performance, and delivering i
 * 🌏  I'm from Maharashtra, India.
 * 👨🏻‍💻  I'm currently working on [ecommerce-website](https://github.com/vijay-jadhav1997/smart_chat)
 * 🧠  Now days, I'm learning advance concepts of Node.js, Next.js, Express.js, Micro-services, AWS and NoSQL databases.
-* 🤝  I'm open to collaborate to any MERN stack project!
+* 🤝  I'm open to collaborate to any Node.js based project!
   
 <hr>
 
@@ -40,7 +44,7 @@ I thrive on solving complex challenges, optimizing performance, and delivering i
 ## Skills
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,py)
+![Languages](https://skillicons.dev/icons?i=js,ts,py,sql)
 
 #### Backend Technologies
 [![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,kafka,rabbitmq)](https://skillicons.dev)
@@ -53,7 +57,7 @@ I thrive on solving complex challenges, optimizing performance, and delivering i
 
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=mongodb,redis,firebase)
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase)
 
 #### Other tools & Technologies
 ![Others](https://skillicons.dev/icons?i=git,github,githubactions,postman,prisma,vite,npm,babel,md,vscode,powershell,&perline=4)
