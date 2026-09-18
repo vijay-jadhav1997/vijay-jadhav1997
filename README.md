@@ -9,7 +9,7 @@ With 4+ years of hands-on experience, I specialize in building scalable, high-pe
   
 - Backend: Node.js, Express.js, Redis, Kafka, RabbitMQ, Microservices
 
-- Frontend: React.js, Next.js, TailwindCSS
+- Frontend: React.js, Next.js, TailwindCSS, HTML, CSS
 
 - Database: Postgres, MongoDB, Redis
   
@@ -23,7 +23,7 @@ I thrive on solving complex challenges, optimizing performance, and delivering i
 "Clean code, robust architecture, and continuous improvement — that’s my mantra."
 
 * 🌏  I'm from Maharashtra, India.
-* 👨🏻‍💻  I'm currently working on [ecommerce-website](https://github.com/vijay-jadhav1997/smart_chat)
+* 👨🏻‍💻  I'm currently working on [ecommerce-website]()
 * 🧠  Now days, I'm learning advance concepts of Node.js, Next.js, Express.js, Micro-services, AWS and NoSQL databases.
 * 🤝  I'm open to collaborate to any Node.js based project!
   
@@ -50,17 +50,17 @@ I thrive on solving complex challenges, optimizing performance, and delivering i
 [![Backend Technologies](https://skillicons.dev/icons?i=nodejs,express,kafka,rabbitmq)](https://skillicons.dev)
 
 #### Infrastructure & DevOps: AWS, Docker, Kubernetes
-![Database & Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes)
+![Database & Tools](https://skillicons.dev/icons?i=aws,docker,cloudflare)
 
 #### Frontend Technologies
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,redux,html,css,tailwind,bootstrap&perline=4)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap&perline=4)
 
 
 #### Database & Tools
-![Database & Tools](https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase)
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,graphql,&perline=4)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=git,github,githubactions,postman,prisma,vite,npm,babel,md,vscode,powershell,&perline=4)
+![Others](https://skillicons.dev/icons?i=git,github,githubactions,postman,prisma,vite,npm,yarn,pnpm,babel,md,vscode,powershell,bash,discord,ai,regex,ubuntu,&perline=4)
 
 
 
