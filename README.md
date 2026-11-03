@@ -23,10 +23,12 @@ I thrive on solving complex challenges, optimizing performance, and delivering i
 "Clean code, robust architecture, and continuous improvement — that’s my mantra."
 
 * 🌏  I'm from Maharashtra, India.
-* 👨🏻‍💻  I'm currently working on [ecommerce-website]()
+* 👨🏻‍💻  I'm currently working on [OpenSource SMS platform]()
 * 🧠  Now days, I'm learning advance concepts of Node.js, Next.js, Express.js, Micro-services, AWS and NoSQL databases.
 * 🤝  I'm open to collaborate to any Node.js based project!
-  
+
+<hr>
+Founder & Creator of Vyasen — building open-source infrastructure for connected education and institutional ecosystems.
 <hr>
 
 ## Connect with me on Social Medias
